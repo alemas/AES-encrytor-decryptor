@@ -9,16 +9,23 @@ namespace NumbersInCSharp
         {
             if (args.Length >= 3) {
 
-                string filepath = args[1];
+                string textfilepath = args[1];
+                string keyfilepath = args[2];
 
-                if (!File.Exists(filepath)) {
-                    Console.WriteLine("File doesn't exist");
+                if (!File.Exists(textfilepath)) {
+                    Console.WriteLine("Text file doesn't exist");
+                    return;
+                }
+
+                if (!File.Exists(keyfilepath)) {
+                    Console.WriteLine("Key file doesn't exist");
                     return;
                 }
 
                 // Encriptar
                 if (args[0] == "-e") {
                     Console.WriteLine("Encrypt operation");
+                    string text = File.ReadAllText(textfilepath);
 
                 // Decriptar
                 } else if (args[0] == "-d") {
@@ -48,7 +55,6 @@ namespace NumbersInCSharp
 
         private static string Encrypt(string text) 
         {
-
             return "";
         }
     }

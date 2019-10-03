@@ -1,0 +1,11 @@
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\bin\Debug\netcoreapp2.2\AES-encrytor-decryptor.deps.json
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\bin\Debug\netcoreapp2.2\AES-encrytor-decryptor.runtimeconfig.json
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\bin\Debug\netcoreapp2.2\AES-encrytor-decryptor.runtimeconfig.dev.json
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\bin\Debug\netcoreapp2.2\AES-encrytor-decryptor.dll
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\bin\Debug\netcoreapp2.2\AES-encrytor-decryptor.pdb
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\obj\Debug\netcoreapp2.2\AES-encrytor-decryptor.csprojAssemblyReference.cache
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\obj\Debug\netcoreapp2.2\AES-encrytor-decryptor.csproj.CoreCompileInputs.cache
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\obj\Debug\netcoreapp2.2\AES-encrytor-decryptor.AssemblyInfoInputs.cache
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\obj\Debug\netcoreapp2.2\AES-encrytor-decryptor.AssemblyInfo.cs
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\obj\Debug\netcoreapp2.2\AES-encrytor-decryptor.dll
+C:\Users\mateus.eckert\Documents\Projects\dotnet\AES-encrytor-decryptor\obj\Debug\netcoreapp2.2\AES-encrytor-decryptor.pdb
